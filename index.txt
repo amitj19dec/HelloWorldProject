@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 modified
 change done in Index file
+=======
+change modified in Index file
+change modified in Index file
+new line added
+>>>>>>> branchConflict
